@@ -162,4 +162,30 @@ python src/evaluate.py
 Your AI has reached the mathematical limit of Blackjack optimal strategy!
 ==================================================
 
-Abstract"Mastering Stochastic Environments with DQN: A Joint Study on Blackjack-v1"Authors: Mohammad Reza Cov Andish, Seyed Ali Fayez HosseiniThis project outlines a robust implementation of Deep Q-Networks (DQN) applied to the highly stochastic environment of Blackjack. Unlike deterministic games, Blackjack imposes a hard mathematical ceiling on success probabilities due to the inherent "House Edge." By implementing advanced techniques such as Target Networks, Soft Updates, and an extreme 500,000-episode training loop with custom epsilon decay, the proposed architecture successfully reaches and slightly exceeds the theoretical maximum win rate (43.58%) over a rigorous 100,000-episode scientific evaluation. This work represents a collaborative engineering effort between two RL specialists focusing on network stability, state preprocessing, and algorithmic optimization.📬 Contact & Social MediaMohammad Reza Cov AndishSeyed Ali Fayez Hosseinihttps://github.com/MohammadRezaCovAndishhttps://github.com/FayezHussainiemail: mohammadrezacovandish@gmail.comemail: hussainifayez2004@gmail.comLinkedIn ProfileLinkedIn Profile⭐ If you find our work useful, please consider giving it a star!A Joint Reinforcement Learning Project byMohammad Reza Cov Andish (Reinforcement Learning & Deep Learning Specialist)Seyed Ali Fayez Hosseini (Reinforcement Learning & DQN Specialist)Kabul University - Faculty of Computer ScienceDepartment Information Systems - 2026
+## 📝 **Abstract**
+
+**"Mastering Stochastic Environments with DQN: A Joint Study on Blackjack-v1"**
+Authors: Mohammad Reza Cov Andish, Seyed Ali Fayez Hosseini
+
+This project outlines a robust implementation of Deep Q-Networks (DQN) applied to the highly stochastic environment of Blackjack. Unlike deterministic games, Blackjack imposes a hard mathematical ceiling on success probabilities due to the inherent "House Edge." By implementing advanced techniques such as Target Networks, Soft Updates, and an extreme 500,000-episode training loop with custom epsilon decay, the proposed architecture successfully reaches and slightly exceeds the theoretical maximum win rate (43.58%) over a rigorous 100,000-episode scientific evaluation. This work represents a collaborative engineering effort between two RL specialists focusing on network stability, state preprocessing, and algorithmic optimization.
+
+<br>
+
+## 📬 **Contact & Social Media**
+
+| Mohammad Reza Cov Andish | Seyed Ali Fayez Hosseini |
+| :--- | :--- |
+| https://github.com/MohammadRezaCovAndish | https://github.com/FayezHussaini |
+| email: mohammadrezacovandish@gmail.com | email: hussainifayez2004@gmail.com |
+| [LinkedIn Profile](https://www.linkedin.com/in/mohammad-reza-cov-andish-1a3825336) | [LinkedIn Profile](https://www.linkedin.com/in/sayed-ali-fayez-hussaini-651205374) |
+
+<br>
+
+⭐ If you find our work useful, please consider giving it a star!
+
+A Joint Reinforcement Learning Project by
+**Mohammad Reza Cov Andish** (Reinforcement Learning & Deep Learning Specialist)
+**Seyed Ali Fayez Hosseini** (Reinforcement Learning & DQN Specialist)
+
+Kabul University - Faculty of Computer Science
+*Department Information Systems - 2026*
